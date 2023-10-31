@@ -1,3 +1,3 @@
 # java
 
-!(https://cdn2.steamgriddb.com/file/sgdb-cdn/logo/156b84a86601888c714c58079409a07e.png)
+![4a5f1c6d69b333554fbd03f3db9a1989](https://github.com/Sinuosa/java/assets/146893441/a24b358d-26be-4136-8721-a9caf1482206)
